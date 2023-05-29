@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **C++, Java, Python, SQL**
+- 💬 Ask me about **Full stack Web Development C++, Java, Python, SQL**
 
 - 📫 How to reach me **amarsansil123@gmail.com**
 
