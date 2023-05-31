@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Full stack Web Development C++, Java, Python, SQL**
 
-- 📫 How to reach me **amarsansil123@gmail.com**
+- 📫 Let's connect: **<a href = "https://linktr.ee/amarsansil" > Everywhere </a>**
 
 - ⚡ Fun fact **Foodie**
 
