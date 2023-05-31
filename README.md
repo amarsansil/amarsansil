@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **MERN stack & Golang**
 
-- 💬 Ask me about **Full stack Web Development C++, Java, Python, SQL**
+- 💬 Ask me about **Full stack Web Development, C++, Golang, Python**
 
 - 📫 Let's connect: **<a href = "https://linktr.ee/amarsansil" > Everywhere </a>**
-
-- ⚡ Fun fact **Foodie**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
