@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amarsansil" target="blank"><img src="https://img.shields.io/twitter/follow/amarsansil?logo=twitter&style=for-the-badge" alt="amarsansil" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN stack & Golang**
 
 - 💬 Ask me about **Full stack Web Development C++, Java, Python, SQL**
 
